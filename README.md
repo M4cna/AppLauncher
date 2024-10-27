@@ -1,6 +1,11 @@
 # AppLauncher
  This Python project, named "App Launcher," allows users to manage their applications by viewing, adding, and opening them. It uses SQLite for database management and provides a user-friendly interface through the command line. Here is a brief overview of its functionality:
 
+ 
+![image](https://github.com/user-attachments/assets/12d81d47-4e7c-4207-9037-32a30a484277)
+
+
+
 View Applications:
 
 1-Users can view a list of all applications currently stored in the database.
