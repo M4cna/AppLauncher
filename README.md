@@ -3,27 +3,15 @@
 its functionality:
 
 View Applications:
-
-Users can view a list of all applications currently stored in the database.
-
-If no applications are stored, it informs the user accordingly.
-
+  1-Users can view a list of all applications currently stored in the database.
+  2-If no applications are stored, it informs the user accordingly.
 Open Application:
-
-Users can open an application by entering its name.
-
-If the application is found in the database, it is executed.
-
-If not, it prompts the user to add the application first.
-
+  1-Users can open an application by entering its name.
+  2-If the application is found in the database, it is executed.
+  3-If not, it prompts the user to add the application first.
 Add Application:
-
-Users can add new applications by entering the application's name and URL.
-
-The new application is then stored in the SQLite database.
-
+  1-Users can add new applications by entering the application's name and URL.
+  2-The new application is then stored in the SQLite database
 Database Management:
-
-The SQLite database is used to store application names and URLs.
-
-Data is persisted, meaning it remains even after the program is closed and reopened.
+  1-The SQLite database is used to store application names and URLs.
+  2-Data is persisted, meaning it remains even after the program is closed and reopened.
