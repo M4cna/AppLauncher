@@ -1,5 +1,4 @@
 import subprocess as sub
-import time as t
 import sqlite3 as sql
 from colorama import init, Fore
 
